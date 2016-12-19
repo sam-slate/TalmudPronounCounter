@@ -1,5 +1,3 @@
-# TalmudPronounCounter
-A program that finds the frequency of he series and she series pronouns in the Berahkot tractate of the Talmud.
+# Talmud Pronoun Counter
 
-
-It uses the Sefaria API to access the text of pages in the Berakhot. 
+Uses the Sefaria API to access the text of pages in the Berakhot. Stores the frequency of he series and she series pronouns of each page in a dictionary and creates an excel file named "output.csv" out of this dictionary.  
